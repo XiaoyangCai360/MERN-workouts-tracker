@@ -6,7 +6,6 @@ const morgan = require('morgan');
 
 const workoutRoutes = require('./routes/workouts');
 
-
 // express app
 const app = express();
 
